@@ -1,0 +1,4 @@
+Note:  Use the following URL to post a student
+    http://localhost:9999/bookStore/webservices/bookrestapp/book/5
+
+{"id":5,"publisherId":1,"isbn":"1010101103","bookTitle":"Cisco Networking","price":79.99}

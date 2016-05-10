@@ -1,0 +1,14 @@
+Use the following URL to retrieve book with id 100  (use GET)
+    http://localhost:9999/bookStore/webservices/bookrestapp/book/100
+
+Use the following URL to post a book  (use POST -- data must be in request body)
+   http://localhost:9999/bookStore/webservices/bookrestapp/book/
+    
+Use the following URL to retrieve a list of all book (use GET)
+    http://localhost:9999/bookStore/webservices/bookrestapp/book/
+    
+Use the following URL to delete book with id 100  (use DELETE)
+    http://localhost:9999/bookStore/webservices/bookrestapp/book/100
+    
+Use the following URL to modify data for book with id 100  (use PUT -- data must be in request body)
+    http://localhost:9999/bookStore/webservices/bookrestapp/book/100

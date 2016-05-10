@@ -1,0 +1,7 @@
+ <book>
+  		<bookTitle>Programming in Java ghj</bookTitle>
+        <id>1</id>
+        <isbn>1010101010167</isbn>
+        <price>69.0</price>
+        <publisherId>3</publisherId>
+ </book>
